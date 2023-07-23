@@ -28,7 +28,7 @@ const Sidebar = () => {
                 }
             >
                 <img src={Icon} alt="icon" className="logo" />
-                <h2 className="title">PRINC SP. </h2>
+                <h2 className="title">PRINCE SP. </h2>
             </div>
             <div
                 className={
