@@ -32,7 +32,7 @@ const Sidebar = () => {
             </div>
             <div
                 className={
-                    closeMenu == false
+                    closeMenu === false
                         ? "burgerContainer"
                         : "burgerContainer active"
                 }
