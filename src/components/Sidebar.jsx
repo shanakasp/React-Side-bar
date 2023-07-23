@@ -49,7 +49,7 @@ const Sidebar = () => {
                 className={
                     closeMenu === false
                         ? "profileContainer"
-                        : "profileContainer acive"
+                        : "profileContainer active"
                 }
             >
                 <img src={Profile} alt="profile" className="profile" />
